@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContadorApp</string>
+        <string name="etiqueta_conteo">Conteo:</string>
+        <string name="etiqueta_numero">0</string>
+        <string name="texto_boton_contar">Contar</string>
+        <string name="texto_boton_reiniciar">Reiniciar</string>
+</resources>
